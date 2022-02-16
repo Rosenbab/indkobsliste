@@ -7,4 +7,4 @@ This is a sample readme file for our GitHub Example repo.  We're learning markdo
 * Pretty cool, right?
 
 ## Link Example
-[CodeTime](https://www.codetime.io)
+[markdownguide](https://www.markdownguide.org)
